@@ -1,9 +1,0 @@
-com\test\schedule\domain\BaseEntity.class
-com\test\schedule\task\DemoTaskBeancd.class
-com\test\schedule\domain\UserRepository.class
-com\test\schedule\task\DemoTaskBean.class
-com\test\schedule\task\DemoTaskBean$1.class
-com\test\schedule\ScheduleInitUtil.class
-com\test\schedule\task\DemoTaskBeancd$1.class
-com\test\schedule\domain\condition\UserQueryModel.class
-com\test\schedule\domain\User.class
